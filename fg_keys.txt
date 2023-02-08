@@ -1,0 +1,5 @@
+--generic=socket,in,10,127.0.0.1,4900,udp,headtracker
+--fdm=network,localhost,5501,5502,5503
+
+
+--httpd=8000
